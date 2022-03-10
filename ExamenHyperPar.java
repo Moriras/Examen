@@ -1,5 +1,6 @@
 public static boolean hyperPar (int num) {
 	int resto;
+	//Esta linea es para causar conflicto
 	if(num>=0)
 	{
 		while(num!=0)
